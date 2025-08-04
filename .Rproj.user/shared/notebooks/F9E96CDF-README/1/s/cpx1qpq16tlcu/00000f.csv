@@ -1,0 +1,5 @@
+"0","tidy_df_2002 <- weekly_df_2002 %>% "
+"0","    gather(key = ""bps"", value = ""cumulative_returns"", starts_with(""fees_bps""))"
+"0",""
+"0","tidy_df_2010 <- weekly_df_2010 %>% "
+"0","    gather(key = ""bps"", value = ""cumulative_returns"", starts_with(""fees_bps""))"

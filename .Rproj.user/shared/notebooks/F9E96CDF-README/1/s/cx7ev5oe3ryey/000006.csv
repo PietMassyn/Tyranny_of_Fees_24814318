@@ -1,0 +1,3 @@
+"0","plot_2002 <- graph_for_the_tyranny_of_fees(year = 2002, cum_diff = difference_in_cum_value_2002, tidy_dat = tidy_df_2002, text_box_location_x = ""2002-12-01"", text_box_location_y = 9)"
+"0",""
+"0","plot_2002"
